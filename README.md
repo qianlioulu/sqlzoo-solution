@@ -8,7 +8,7 @@ My solutions to all of  10 levels on the [SQLZOO Tutoral](http://sqlzoo.net/wiki
 | Section. No | Section. Name                                                              |Status|
 |:------:|----------------------------------------------------------------------------|:--:|
 | 01.     | [SELECT basics](#select-basics)|✅|
-| 02.     | [SELECT from WORLD](#select-from-world)|| 
+| 02.     | [SELECT from WORLD](#select-from-world)|✅| 
 | 03.     | [SELECT from NOBEL](#select-from-nobel)|✅| 
 | 04.     | [SELECT in SELECT](#select-in-select)|✅|
 | 05.     | [SUM and COUNT](#sum-and-count)|✅| 
